@@ -50,7 +50,7 @@ h2 {
 #learn {
   color: #1783bb;
   cursor: pointer;
-  
+  text-decoration: none;
 }
 
 .footer {
