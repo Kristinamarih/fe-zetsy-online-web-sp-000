@@ -64,7 +64,8 @@ img {
 }
 
 img:hover {
-  
+  cursor: pointer;
+  background-color: 
 }
 
 .footer {
