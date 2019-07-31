@@ -58,7 +58,9 @@ h2 {
 }
 
 img {
-  border: ;
+  border-color: rgb(204,204,204);
+  border-style: solid;
+  border-width: 
 }
 
 .footer {
