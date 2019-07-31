@@ -63,6 +63,10 @@ img {
   border-width: 5px;
 }
 
+img:hover {
+  
+}
+
 .footer {
   text-align: right;
 }
